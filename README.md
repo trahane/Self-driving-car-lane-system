@@ -89,4 +89,4 @@ python car_d.py
 5.	To use autonomous mode press spacebar.
 </p>
 
-![alt text](https://github.com/trahane/Self-driving-car-lane-system/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/trahane/Self-driving-car-lane-system/blob/master/showcase%20output.png?raw=true)
