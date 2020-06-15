@@ -44,8 +44,6 @@ def training():
         # compare error
 
         l2_error = y - l2
-        # if np.mean(np.abs(l2_error)) < 0.01:
-        #     break
         if i % 20000 == 0:
             print("Error:"+str(np.mean(np.abs(l2_error))))
 
